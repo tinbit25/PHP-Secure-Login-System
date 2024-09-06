@@ -1,0 +1,103 @@
+*{
+
+    margin: 0;
+    padding: 0;
+  }
+  .main{
+    width:100%;
+    background:linear-gradient(to top,rgba(0,0,0,0.3)50%,rgba(0,0,0,0.3)50%),url(../img/pexels-harrison-haines-2869565.jpg);
+    background-position: center;
+    background-size: cover;
+   
+  }
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    color: #f685a2;
+  
+    margin-top: -40px;
+}
+
+
+
+
+select {
+  width: 540px;
+  height:80px;
+ color: #fff;
+ font-size: 20px;
+  padding: 10px;
+
+  border: 1px solid  #f685a2;
+  background-color:  #f685a2;
+  border-radius: 5px;
+}
+
+  
+  btn:hover{
+    color: red;
+  }
+  .form{
+    width:250px;
+    height: 380px;
+   
+    position: absolute;
+    top: 300px;
+    left: 300px;
+  border-radius: 10px;
+
+}
+.btnn{
+
+  width: 540px;
+  height:80px;
+  
+  border:none;
+  margin-top: 20px;
+  
+  font-size: 30px;
+  border-radius: 20px;
+ cursor: pointer;
+}
+.btn{
+
+  width: 540px;
+  height:80px;
+  background:#f685a2;
+  border:none;
+  margin-top: 60px;
+  color:#fff;
+  font-size: 30px;
+  border-radius: 10px;
+ cursor: pointer;
+}
+.btn:focus{
+  outline: none;
+}
+
+
+.form input{
+  width: 540px;
+  height: 35px;
+  background: transparent;
+  border-bottom: none;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  color: #fff;
+  font-size: 30px;
+  letter-spacing: 1px;
+ 
+  font-family: sans-serif;
+}
+.form input:focus{
+  outline: none;
+}
+
+
+
+footer{
+    margin-top: 640px;
+    color: #fff;
+  }

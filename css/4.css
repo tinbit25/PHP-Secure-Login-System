@@ -1,0 +1,33 @@
+*{
+
+    margin: 0;
+    padding: 0;
+  }
+  .main{
+    width:100%;
+    background:linear-gradient(to top,rgba(0,0,0,0.3)50%,rgba(0,0,0,0.3)50%),url(../img/pexels-pixabay-277770.jpg);
+    background-position: center;
+    background-size: cover;
+   
+  }
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    color: #f685a2;
+  
+    margin-top: -100px;
+}
+
+
+
+
+
+  
+
+
+
+footer{
+    margin-top: 640px;
+    color: #fff;
+  }
